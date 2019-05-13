@@ -2,12 +2,10 @@
 
 
 
-A bus name board classifier built using Fastai. It can identify bus name boards for the routes -
+A pattern classifier built using Fastai. It can identify patterns - stripes, checks, solids.
+ 
+Test it out with the images available in the test_images folder.
 
-'17D', '12G', '11H', '5E', '11G' Test it out with the images available in the test_images folder.
-
-This webapp is available at - https://bus-board-identifier.onrender.com/
+This webapp is available at - https://patterns.onrender.com/
 
 
-
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
